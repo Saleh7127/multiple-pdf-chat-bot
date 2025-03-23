@@ -1,0 +1,21 @@
+.qodo
+.DS_Store
+# Python bytecode
+*.pyc
+__pycache__/
+
+# Virtual environments
+myenv/
+
+# IDE configurations
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Environment variables
+.env
